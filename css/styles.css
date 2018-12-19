@@ -22,8 +22,14 @@
     color:floralwhite;
 }
 
-address{
+.address{
     font-size:80%;
     margin:0px;
     color:#0f0f0f;
 }
+
+.font {
+    font-size: 17px;
+}
+
+
